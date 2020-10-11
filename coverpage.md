@@ -1,11 +1,12 @@
-# docsify <small>3.5</small>
+![logo](_media/icon.svg)
 
+# docsify <small>4.11.6</small>
 
+> A magical documentation site generator.
 
-<!-- 背景图片 -->
+- Simple and lightweight
+- No statically built html files
+- Multiple themes
 
-![d3fe00ad6030a835d9312dfca444d7f6.jpg](https://pic.ioiox.com/images/2020/07/06/d3fe00ad6030a835d9312dfca444d7f6.jpg)
-
-<!-- 背景色 -->
-
-![color](#f0f0f0)
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Getting Started](#docsify)
